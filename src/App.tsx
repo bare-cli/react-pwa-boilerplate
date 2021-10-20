@@ -6,9 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <a href="https://github.com/bare-cli/bare" target="_blank">
+          <img src={logo} className="App-logo" alt="logo" />
+        </a>
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Click Icon to go to bare-cli Github repo
         </p>
         <a
           className="App-link"
