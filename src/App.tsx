@@ -12,14 +12,19 @@ function App() {
         <p>
           Click Icon to go to bare-cli Github repo
         </p>
-        <a
+        <p>
+          Not familiar with React? 
+          <br />
+          <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+          >
+            Learn React
+          </a>
+        </p>
+        
       </header>
     </div>
   );
