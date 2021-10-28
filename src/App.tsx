@@ -10,7 +10,7 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
         </a>
         <p>
-          Click Icon to go to <b>bare-cli</b> github repo
+          Click Icon to go to <i><code>bare-cli</code></i> github repo
         </p>
         <p>
           Not familiar with React? 
